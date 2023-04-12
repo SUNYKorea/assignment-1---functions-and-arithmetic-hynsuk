@@ -1,6 +1,8 @@
 # Name: Hyunsuk Lee
 # SBUID: 114673323
-
+##################### SCORE ######################
+#######  Score:  9.5/10  ->>> no python fucntions or variables used at the right place
+#################################################
 # Remove the ellipses (...) when writing your solutions.
 
 # ---------------------------- Exercise I ---------------------------------------
